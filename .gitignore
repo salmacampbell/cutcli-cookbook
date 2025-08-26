@@ -9,3 +9,4 @@ __pycache__/
 *.tmp
 tmp/
 .pytest_cache/
+.cache/
